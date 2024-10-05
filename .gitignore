@@ -15,7 +15,6 @@
 # Go module files
 go.sum
 vendor/
-.env
 
 # IDE and editor directories
 .idea/
